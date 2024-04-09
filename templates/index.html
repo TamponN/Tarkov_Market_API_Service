@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Items</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Items</h1>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Average 24h Price</th>
+            <th>Average 7 Days Price</th>
+            <th>Buy Back Price</th>
+            <th>Currency</th>
+            <th>Trader</th>
+        </tr>
+        {% for item in items %}
+        <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.price }}</td>
+            <td>{{ item.avg24hPrice }}</td>
+            <td>{{ item.avg7daysPrice }}</td>
+            <td>{{ item.buy_back_price }}</td>
+            <td>{{ item.currency }}</td>
+            <td>{{ item.trader }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

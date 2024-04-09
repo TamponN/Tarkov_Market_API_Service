@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tarkovhelp",
+  "private_key_id": "a6fdf0e5eed507cbc77eb85d266f7bf75e5a6541",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDnvqxJ49WpmWA\nQvIml4Xx6iKoBC+DZN+4esQ+f1wXJEHbvsvt10AWy8JEjZUKmyRuOk3usn0k48Pv\nLjErWpSnn3sleRRqC1yyBJeInlmzkSAsbXBPpxXIPKsLHs4mty/8ZX3P/NL1CGee\nJkH4CMf01ZzIX91MTLm70MMO74m9vOjQY2PIRSS2FHKupw8QWCHbA9KBYbUP4UHP\nJvlOGQPX0RpXxmzLO2EaX7Y+/ncbq0S5kJBfMTnz6vCidZVkiNAeass4y2PQvstF\nN7EK/TLa5zM0l++VJEDhwfdwSEI+NffXXl6FaDGQUO5/26epRfSSVrQVkHXIpgDS\n/H+oxL/ZAgMBAAECggEABLrEw+C5efZW8OVtdlpmfiVThi1nuq0HLa4mLX6lytdx\nEi+IPa1dGs/9V+v2ZQXAOTwGo1VEak5pb9B1lt8/Rdg4wXyubivtJ06uHTr63zkM\nhpZ0xzA6ehdhaUjq4gu+yMLpakxqC0uTOcMiCC2qK/S4MC4FKzGVsgFHngZTlbc/\nHp5Gy9pdOuqQ7FS6w3zGZ8///5pMUBP/kFePBFUdeGqi1rp5/iYekeS68pb4SWBA\nQLmDjxQ4Qb26mbdqCQ755X68V+kbr+1lRM0wM+d5/Q9Nuc+JLpBR8T/Y9APrVPf7\nccpMOn299/x+2ckVKn2OYIO8xf/xX5fz26qPTMOOiQKBgQD+fbVgSvylZew1JZp0\njmAnBECt3CMoxxhTnO4S58RxDu9xwtj7pL2OvM8aGHZI45P+gQqzIV44CPyHFpPC\nuS1E3oKxOEqjrj9n2yX2LchlDw5S0Fhax9dlp7QyMKckLcpigztC1eZIxk8CeOD8\nEDacl6PZAR/0JlVUD1YsDKRBpQKBgQDEx+l7wPP8PQttS2Mv66BEau7L2U0aPUN0\nZt9qaoJ9X0gMsXk9q+0a00why0LO66odwK3i9klhaLZLQwOMoqGW978XEfW1OS8j\nuc8AueAUjlMN7zufxbTSkmITJSc9v7+ceWtn0R4mOk0TfAs9E1QxHIcvyE6t0PRt\n0L/wrgDHJQKBgQDz/q6RPhPwuEG5yu3FZmQFxGwGxRLom8pVEBaqBZAwHXOxDHFh\nA1fCrH+bs2xlAdz4m9wYVpuw+dyz4A+XGFewue1v4FqfiAa+mjxRRR/m1IKVH7A2\niXeYvStlG4SEiWqK/Osqb0404/0Ij8CVqy3RAQpUmmF6ge45g+LIpO4vCQKBgQCa\n4r9kKPviDipwXGY10cDUGVbcHK4TeSUe+dngaPVMuTJ8yzQi1rBJ7QZ/kv2C4PuF\nb6NugWxAv6q8koK4r0mBCn/eKMS9X8U62YWVjLhTdbLpxOOpXnR1ScLoTtYURFkN\nUIS5sl+It1rzey9dY1lhTpMZiRBkv5Ok3Co3xr3WAQKBgCI72dqAgO29H2cYQaEV\n6XIDymljvGN8BUNjJ/r1VAJduDjXi+9vgds1ZX8ozww11BT24MKqEqAWcDivtUwH\nfQyuVuchCT+FRgY4D3p1lHJSpE5ZorCJC3Oav41QUFkrwhLM+DuqYiJmTxDrtcxN\nHecvxzLb8mXTPLOQ2xg4B2vb\n-----END PRIVATE KEY-----\n",
+  "client_email": "tarkovhelpproject@tarkovhelp.iam.gserviceaccount.com",
+  "client_id": "114198305606388484759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tarkovhelpproject%40tarkovhelp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
