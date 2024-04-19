@@ -7,10 +7,9 @@ if __name__ == "__main__":
         'x-api-key': secret_key
     }
 
-    query = 'Magazines'
-
-    response = requests.get(target_url + "/items/all?tags=" + query, headers=headers)
+    response = requests.get(target_url + "/items/all", headers=headers)
 
     if response.status_code == 200:
         print(response.json())
-    else: print(response.status_code)
+    else:
+        print(response.status_code)

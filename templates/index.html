@@ -1,32 +1,66 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Items</title>
-    <meta charset="UTF-8">
+    <title>Элементы Tarkov Market</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .img-thumbnail {
+            max-width: 50px;
+            height: auto;
+        }
+        .additional-info-row {
+            background-color: #f8f9fa;
+        }
+    </style>
+    <script>
+        function toggleInfo(index) {
+            var infoRow = document.getElementById('additional-info-' + index);
+            infoRow.style.display = (infoRow.style.display === 'none') ? 'table-row' : 'none';
+        }
+    </script>
 </head>
 <body>
-    <h1>Items</h1>
-    <table border="1">
+<div class="container">
+    <h1>Элементы Tarkov Market</h1>
+    <table class="table">
+        <thead class="thead-light">
         <tr>
+            <th>Image</th>
             <th>Name</th>
+            <th>Tags</th>
             <th>Price</th>
-            <th>Average 24h Price</th>
-            <th>Average 7 Days Price</th>
-            <th>Buy Back Price</th>
-            <th>Currency</th>
-            <th>Trader</th>
+            <th>Trader Name</th>
         </tr>
+        </thead>
+        <tbody>
         {% for item in items %}
         <tr>
-            <td>{{ item.name }}</td>
-            <td>{{ item.price }}</td>
-            <td>{{ item.avg24hPrice }}</td>
-            <td>{{ item.avg7daysPrice }}</td>
-            <td>{{ item.buy_back_price }}</td>
-            <td>{{ item.currency }}</td>
-            <td>{{ item.trader }}</td>
+            <td><img src='{{ item.img }}' class='img-thumbnail'></td>
+            <td class="name-cell" onclick="toggleInfo({{ loop.index0 }})">{{ item.name }}</td>
+            <td>{{ item.tags }}</td>
+            <td>${{ item.price }}</td>
+            <td>{{ item.traderName }}</td>
+        </tr>
+        <tr id="additional-info-{{ loop.index0 }}" class="additional-info-row" style="display: none;">
+            <td colspan="5">
+                <div class="additional-info">
+                    <p><strong>UID:</strong> {{ item.uid }}</p>
+                    <p><strong>Base Price:</strong> ${{ item.basePrice }}</p>
+                    <p><strong>Avg 24h Price:</strong> ${{ item.avg24hPrice }}</p>
+                    <p><strong>Avg 7 Days Price:</strong> ${{ item.avg7daysPrice }}</p>
+                    <p><strong>Trader Price:</strong> ${{ item.traderPrice }}</p>
+                    <p><strong>Updated:</strong> {{ item.updated }}</p>
+                    <p><strong>Wiki Link:</strong> <a href="{{ item.wikiLink }}"> Ссылка на Вики</a></p>
+                    <p><strong></strong> <img src="{{ item.imgBig }}"></p>
+                </div>
+            </td>
         </tr>
         {% endfor %}
+        </tbody>
     </table>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>

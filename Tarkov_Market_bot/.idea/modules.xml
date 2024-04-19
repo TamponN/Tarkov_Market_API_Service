@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tarkov_Market_API_Service.iml" filepath="$PROJECT_DIR$/.idea/Tarkov_Market_API_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tarkov_Market_bot.iml" filepath="$PROJECT_DIR$/.idea/Tarkov_Market_bot.iml" />
     </modules>
   </component>
 </project>

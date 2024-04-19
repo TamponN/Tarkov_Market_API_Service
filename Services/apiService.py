@@ -12,6 +12,15 @@ class Api_service:
         }
         self.base_url = target_url
 
+    def get_all_items(self):
+        finally_url = self.base_url + "items/all"
+        response = requests.get(finally_url, headers=self.headers)
+
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return response.status_code
+
     def get_item_by_name(self, name):
         """
         Получение предмета по его названию
@@ -24,7 +33,8 @@ class Api_service:
 
         if response.status_code == 200:
             return response.json()
-        else: return response.status_code
+        else:
+            return response.status_code
 
     def get_item_by_uid(self, uid):
         """
@@ -38,7 +48,8 @@ class Api_service:
 
         if response.status_code == 200:
             return response.json()
-        else: return response.status_code
+        else:
+            return response.status_code
 
     def get_all_items_by_tag(self, tag):
         """

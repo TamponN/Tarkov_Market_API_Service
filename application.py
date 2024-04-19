@@ -8,4 +8,3 @@ secret_key_tg = ""
 
 app.json.ensure_ascii = False
 
-
