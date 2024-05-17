@@ -1,0 +1,224 @@
+{
+    "Квесты": [
+        {
+            "Название": "Бессонница",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bessonicza.jpg",
+            "url": "/ru/quest/bessonicza"
+        },
+        {
+            "Название": "Рыболовные снасти",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Rybolovnye-snasti.jpg",
+            "url": "/ru/quest/rybolovnye-snasti"
+        },
+        {
+            "Название": "Сафари на тигра",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Safari-na-tigra.jpg",
+            "url": "/ru/quest/safari-na-tigra"
+        },
+        {
+            "Название": "Металлолом",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Metallolom.jpg",
+            "url": "/ru/quest/metallolom"
+        },
+        {
+            "Название": "Глаз орла",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Glaz-orla.jpg",
+            "url": "/ru/quest/glaz-orla"
+        },
+        {
+            "Название": "Ревизия - Резерв",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/reviziya.jpg",
+            "url": "/ru/quest/reviziya-rezerv"
+        },
+        {
+            "Название": "Гуманитарка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Gumanitarka.jpg",
+            "url": "/ru/quest/gumanitarka"
+        },
+        {
+            "Название": "Секретные разработки",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/sekretnye-razrabotki.jpg",
+            "url": "/ru/quest/sekretnye-razrabotki"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-1.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-1"
+        },
+        {
+            "Название": "Секта. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sekta.-CHast-1.jpg",
+            "url": "/ru/quest/sekta-chast-1"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-2.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-2"
+        },
+        {
+            "Название": "Секта. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sekta.-CHast-2-1.jpg",
+            "url": "/ru/quest/sekta-chast-2"
+        },
+        {
+            "Название": "Образцы",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/obrazczy.jpg",
+            "url": "/ru/quest/obrazczy"
+        },
+        {
+            "Название": "Сотрудник Terragroup",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/sotrudnik-terragroup.jpg",
+            "url": "/ru/quest/sotrudnik-terragroup"
+        },
+        {
+            "Название": "Лендлиз. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lendliz.-CHast-2.png",
+            "url": "/ru/quest/lendliz-chast-2"
+        },
+        {
+            "Название": "Миротворческая миссия",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mirotvorcheskaya-missiya.jpg",
+            "url": "/ru/quest/mirotvorcheskaya-missiya"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-3.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-3"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-4.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-4"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-5.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-5"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 6",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-6.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-6"
+        },
+        {
+            "Название": "Путевка в санаторий. Часть 7",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-7.jpg",
+            "url": "/ru/quest/putevka-v-sanatorij-chast-7"
+        },
+        {
+            "Название": "Груз X. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Gruz-X.-CHast-1.jpg",
+            "url": "/ru/quest/gruz-x-chast-1"
+        },
+        {
+            "Название": "Груз X. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Gruz-X.-CHast-2.jpg",
+            "url": "/ru/quest/gruz-x-chast-2"
+        },
+        {
+            "Название": "Груз X. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Gruz-X.-CHast-3.jpg",
+            "url": "/ru/quest/gruz-x-chast-3"
+        },
+        {
+            "Название": "Мокрое дело. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mokroe-delo.-CHast-1-1.jpg",
+            "url": "/ru/quest/mokroe-delo-chast-1"
+        },
+        {
+            "Название": "Мокрое дело. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mokroe-delo.-CHast-2.jpg",
+            "url": "/ru/quest/mokroe-delo-chast-2"
+        },
+        {
+            "Название": "Мокрое дело. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mokroe-delo.-CHast-1.jpg",
+            "url": "/ru/quest/mokroe-delo-chast-3"
+        },
+        {
+            "Название": "Мокрое дело. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mokroe-delo.-CHast-4.jpg",
+            "url": "/ru/quest/mokroe-delo-chast-4"
+        },
+        {
+            "Название": "Мокрое дело. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mokroe-delo.-CHast-5.jpg",
+            "url": "/ru/quest/mokroe-delo-chast-5"
+        },
+        {
+            "Название": "Мокрое дело. Часть 6",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mokroe-delo.-CHast-6.jpg",
+            "url": "/ru/quest/mokroe-delo-chast-6"
+        },
+        {
+            "Название": "Наставник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Nastavnik.jpg",
+            "url": "/ru/quest/nastavnik"
+        },
+        {
+            "Название": "Проводник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Provodnik.jpg",
+            "url": "/ru/quest/provodnik"
+        },
+        {
+            "Название": "Чистильщик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-ohotnika.-stiratel-2.jpg",
+            "url": "/ru/quest/chistilshhik"
+        },
+        {
+            "Название": "Груз X. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/gruz-x.-chast-4.jpg",
+            "url": "/ru/quest/gruz-x-chast-4"
+        },
+        {
+            "Название": "Ревизия - Маяк",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/prostaya-zadacha.-chast-2.webp",
+            "url": "/ru/quest/reviziya-mayak"
+        },
+        {
+            "Название": "Перенаселение",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/perenaselenie.webp",
+            "url": "/ru/quest/perenaselenie"
+        },
+        {
+            "Название": "Трофеи",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Trophies_quest.webp",
+            "url": "/ru/quest/trofei"
+        },
+        {
+            "Название": "Заказ",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Surplus.PNG.webp",
+            "url": "/ru/quest/zakaz"
+        },
+        {
+            "Название": "Противостояние",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/PeacekeeperFullRes.jpg",
+            "url": "/ru/quest/protivostoyanie"
+        },
+        {
+            "Название": "Ревизия - Улицы Таркова",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/ревизия улицы.png",
+            "url": "/ru/quest/reviziya-ulici-tarkova"
+        },
+        {
+            "Название": "Техосмотр",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/техосмотр.png",
+            "url": "/ru/quest/tegosmotr"
+        },
+        {
+            "Название": "Худшая работа на свете",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Putevka-v-sanatorij.-CHast-1.jpg",
+            "url": "/ru/quest/hudshaya-rabota-na-svete"
+        },
+        {
+            "Название": "Проезд закрыт",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/зеленый коридор.png",
+            "url": "/ru/quest/proezd-zakryt"
+        },
+        {
+            "Название": "Каратель. Жатва.",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel-chast-5.webp",
+            "url": "/ru/quest/karatel-jatva"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Требования": "Требуется для\nКоллекционера",
+    "Цели квеста": "Найти заказное письмо на локации Улицы Таркова\nПередать заказное письмо",
+    "Как выполнить квест": "Письмо имеет несколько точек появления. Отправляемся на Улицы Таркова, путь лежит в Почту Руси. Вход в Почту Руси на Улицах Таркова Вход в Почту Руси на Улицах Таркова Путь к письму в Почте Руси Путь к письму в Почте Руси Найти все места появления письма на карте Первое место спауна за стойкой на полу между сумкой и мёртвым диким За стойкой на полу между сумкой и мёртвым диким За стойкой на полу между сумкой и мёртвым диким Первое место спауна письма Первое место спауна письма Второе за стойкой справа от стула на колёсах в прямоугольных отсеках. Письмо может быть невидимым За стойкой справа от стула на колёсах в прямоугольных отсеках За стойкой справа от стула на колёсах в прямоугольных отсеках Второе место спауна письма Второе место спауна письма Третье место напротив стола с принтером в приоткрытом сером шкафу В приоткрытом сером шкафу В приоткрытом сером шкафу Третье место спауна письма Третье место спауна письма Четвёртое на складе (Соседнее помещение дальше по коридору), у окна между коробками На складе между коробками На складе между коробками Четвертое место спауна Четвертое место спауна",
+    "Ссылки на изображения": [
+        "https://minio.tarkov.help/production/img/articles/vhod-v-pochtu-rusi-na-ulicah-tarkova.webp",
+        "https://minio.tarkov.help/production/img/articles/put-k-pismu-v-pochte-rusi.webp",
+        "https://minio.tarkov.help/production/img/articles/za-stojkoj-na-polu-mezhdu-sumkoj-i-myortvym-dikim.webp",
+        "https://minio.tarkov.help/production/img/articles/pervoe-mesto-spauna-pisma.webp",
+        "https://minio.tarkov.help/production/img/articles/za-stojkoj-sprava-ot-stula-na-kolyosah-v-pryamougolnyh-otsekah.webp",
+        "https://minio.tarkov.help/production/img/articles/vtoroe-mesto-spauna-pisma.webp",
+        "https://minio.tarkov.help/production/img/articles/v-priotkrytom-serom-shkafu.webp",
+        "https://minio.tarkov.help/production/img/articles/trete-mesto-spauna-pisma.webp",
+        "https://minio.tarkov.help/production/img/articles/na-sklade-mezhdu-korobkami.webp",
+        "https://minio.tarkov.help/production/img/articles/chetvertoe-mesto-spauna.webp"
+    ],
+    "Награды за квест": "\n+4800 Опыта\n\n+0.02 Репутации у Прапора\n\n27000 Рублей\n"
+}

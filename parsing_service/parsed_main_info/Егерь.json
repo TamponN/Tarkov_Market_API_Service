@@ -1,0 +1,269 @@
+{
+    "Квесты": [
+        {
+            "Название": "Мутное дело",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Mutnoe-delo.jpg",
+            "url": "/ru/quest/mutnoe-delo"
+        },
+        {
+            "Название": "Знакомство",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Знакомствоооо.png",
+            "url": "/ru/quest/znakomstvo"
+        },
+        {
+            "Название": "Путь выживальщика. Беззащитен, но опасен",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Bezzashhiten-no-opasen.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-bezzashhiten-no-opasen"
+        },
+        {
+            "Название": "Путь выживальщика. Запасливый",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Zapaslivyj.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-zapaslivyj"
+        },
+        {
+            "Название": "Путь выживальщика. Живчик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-ZHivchik.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-zhivchik"
+        },
+        {
+            "Название": "Путь выживальщика. Раненый зверь",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Ranenyj-zver.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-ranenyj-zver"
+        },
+        {
+            "Название": "Путь выживальщика. Хладнокровный",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Hladnokrovnyj.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-hladnokrovnyj"
+        },
+        {
+            "Название": "Путь охотника. Охранка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Ohranka.jpg",
+            "url": "/ru/quest/put-ohotnika-ohranka"
+        },
+        {
+            "Название": "Путь выживальщика. Крепыш",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Krepysh.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-krepysh"
+        },
+        {
+            "Название": "Путь выживальщика. Филин",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Filin.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-filin"
+        },
+        {
+            "Название": "Путь выживальщика. Боевой медик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Boevoj-medik.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-boevoj-medik"
+        },
+        {
+            "Название": "Путь выживальщика. Торчок",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-vyzhivalshhika.-torchok.jpg",
+            "url": "/ru/quest/put-vyzhivalshhika-torchok"
+        },
+        {
+            "Название": "Скорая помощь",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Skoraya-pomoshh.jpg",
+            "url": "/ru/quest/skoraya-pomoshh"
+        },
+        {
+            "Название": "Резерв",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Rezerv.jpg",
+            "url": "/ru/quest/rezerv-kvest"
+        },
+        {
+            "Название": "Визит вежливости",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vizit-vezhlivosti.jpg",
+            "url": "/ru/quest/vizit-vezhlivosti"
+        },
+        {
+            "Название": "Ностальгия",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Nostalgiya.jpg",
+            "url": "/ru/quest/nostalgiya"
+        },
+        {
+            "Название": "Путь охотника. Трофей",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Trofej.jpg",
+            "url": "/ru/quest/put-ohotnika-trofej"
+        },
+        {
+            "Название": "Путь охотника. Очистка леса",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Ochistka-lesa.jpg",
+            "url": "/ru/quest/put-ohotnika-ochistka-lesa"
+        },
+        {
+            "Название": "Путь охотника. Справедливость",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Spravedlivost.jpg",
+            "url": "/ru/quest/put-ohotnika-spravedlivost"
+        },
+        {
+            "Название": "Путь охотника. Переучёт",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Pereuchyot.jpg",
+            "url": "/ru/quest/put-ohotnika-pereuchyot"
+        },
+        {
+            "Название": "Путь охотника. Контролёр",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Kontrolyor.jpg",
+            "url": "/ru/quest/put-ohotnika-kontrolyor"
+        },
+        {
+            "Название": "Путь охотника. Злой вахтёр",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Zloj-vahtyor.jpg",
+            "url": "/ru/quest/put-ohotnika-zloj-vahtyor"
+        },
+        {
+            "Название": "Рыбное место",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Rybnoe-mesto.jpg",
+            "url": "/ru/quest/rybnoe-mesto"
+        },
+        {
+            "Название": "Путь охотника. Санитар леса",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Sanitar-lesa.jpg",
+            "url": "/ru/quest/put-ohotnika-sanitar-lesa"
+        },
+        {
+            "Название": "Путь охотника. Начальник завода",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-ohotnika.-nachalnik-zavoda.png",
+            "url": "/ru/quest/put-ohotnika-nachalnik-zavoda"
+        },
+        {
+            "Название": "На охоту",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Na-ohotu.jpg",
+            "url": "/ru/quest/na-ohotu"
+        },
+        {
+            "Название": "Борьба с вредителями",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/borba-s-vreditelyami.png",
+            "url": "/ru/quest/borba-s-vreditelyami"
+        },
+        {
+            "Название": "Путь охотника. Стиратель",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Stiratel.jpg",
+            "url": "/ru/quest/put-ohotnika-stiratel"
+        },
+        {
+            "Название": "Путь охотника. Стиратель 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-ohotnika.-Stiratel-2.jpg",
+            "url": "/ru/quest/put-ohotnika-stiratel-2"
+        },
+        {
+            "Название": "Охотник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/ohotnik.png",
+            "url": "/ru/quest/ohotnik"
+        },
+        {
+            "Название": "Путь Охотника. Непреклонный",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-ohotnika.-nepreklonnyj.png",
+            "url": "/ru/quest/put-ohotnika-nepreklonnyj"
+        },
+        {
+            "Название": "Путь охотника. Садист",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-ohotnika.-sadist.jpg",
+            "url": "/ru/quest/put-ohotnika-sadist"
+        },
+        {
+            "Название": "Ловкач",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-vyzhivalshhika.-bezzashhiten-no-opasen (1).jpg",
+            "url": "/ru/quest/lovkach"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-1.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-1"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-1.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-2"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-1.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-3"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-4.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-4"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-5.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-5"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 6",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-6.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-6"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 7",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-7-1.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-7"
+        },
+        {
+            "Название": "Тарковский стрелок. Часть 8",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tarkovskij-strelok.-CHast-8-1.jpg",
+            "url": "/ru/quest/tarkovskij-strelok-chast-8"
+        },
+        {
+            "Название": "Путь Охотника. Отступники",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-ohotnika.-otstupniki.webp",
+            "url": "/ru/quest/put-ohotnika-otstupniki"
+        },
+        {
+            "Название": "Отшельник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/otshelnik.webp",
+            "url": "/ru/quest/otshelnik"
+        },
+        {
+            "Название": "Залётные",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Straydogs.webp",
+            "url": "/ru/quest/zaletnie"
+        },
+        {
+            "Название": "Продразведка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_KoxD8MWklM.png",
+            "url": "/ru/quest/prodrazvedka"
+        },
+        {
+            "Название": "Путь охотника - Администратор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/должник.png",
+            "url": "/ru/quest/put-ohotnika-administrator"
+        },
+        {
+            "Название": "Прекратить огонь!",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chyornyj-vyhod.jpg",
+            "url": "/ru/quest/prekratit-ogon"
+        },
+        {
+            "Название": "Стрим - Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/стрим1и2.png",
+            "url": "/ru/quest/strim-3"
+        },
+        {
+            "Название": "Стрим - Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/стрим4.png",
+            "url": "/ru/quest/strim-4"
+        },
+        {
+            "Название": "Потрошитель",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Put-vyzhivalshhika.-Ranenyj-zver.jpg",
+            "url": "/ru/quest/potroshitel"
+        },
+        {
+            "Название": "Путь охотника - Крупная дичь",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/техосмотр.png",
+            "url": "/ru/quest/put-okhotnika-krupnaya-dich"
+        },
+        {
+            "Название": "Стрим - Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/стрим5.png",
+            "url": "/ru/quest/strim-5"
+        },
+        {
+            "Название": "Путь охотника. Оборотень в погонах",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/колонтай.png",
+            "url": "/ru/quest/put-ohotnika-oboroten-v-pagonah"
+        }
+    ]
+}

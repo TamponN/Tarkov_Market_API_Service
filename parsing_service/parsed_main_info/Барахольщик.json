@@ -1,0 +1,204 @@
+{
+    "Квесты": [
+        {
+            "Название": "Только бизнес",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tolko-biznes.jpg",
+            "url": "/ru/quest/tolko-biznes"
+        },
+        {
+            "Название": "Вернем Ультре былое величие",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vernem-Ultre-byloe-velichie.jpg",
+            "url": "/ru/quest/vernem-ultre-byloe-velichie"
+        },
+        {
+            "Название": "Распродажа",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vernem-Ultre-byloe-velichie (1).jpg",
+            "url": "/ru/quest/rasprodazha"
+        },
+        {
+            "Название": "Топливный вопрос",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/toplivnyj-vopros.jpg",
+            "url": "/ru/quest/toplivnyj-vopros"
+        },
+        {
+            "Название": "Кровь войны",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Krov-vojny.jpg",
+            "url": "/ru/quest/krov-vojny"
+        },
+        {
+            "Название": "Картотека. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Kartoteka.-CHast-1.jpg",
+            "url": "/ru/quest/kartoteka-chast-1"
+        },
+        {
+            "Название": "Знаток Резерва",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/znatok-rezerva.jpg",
+            "url": "/ru/quest/znatok-rezerva"
+        },
+        {
+            "Название": "Модный приговор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Modnyj-prigovor.jpg",
+            "url": "/ru/quest/modnyj-prigovor"
+        },
+        {
+            "Название": "Картотека. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Kartoteka.-CHast-2.jpg",
+            "url": "/ru/quest/kartoteka-chast-2"
+        },
+        {
+            "Название": "Благодарность",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Blagodarnost.jpg",
+            "url": "/ru/quest/blagodarnost"
+        },
+        {
+            "Название": "Горячая доставка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Goryachaya-dostavka.jpg",
+            "url": "/ru/quest/goryachaya-dostavka"
+        },
+        {
+            "Название": "Ночь распродаж",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Noch-rasprodazh.jpg",
+            "url": "/ru/quest/noch-rasprodazh"
+        },
+        {
+            "Название": "Шить — не тужить. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/SHit-ne-tuzhit.-CHast-1.jpg",
+            "url": "/ru/quest/shit-ne-tuzhit-chast-1"
+        },
+        {
+            "Название": "Маршрутка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Marshrutka.jpg",
+            "url": "/ru/quest/marshrutka"
+        },
+        {
+            "Название": "Шить — не тужить. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/SHit-ne-tuzhit.-CHast-2.jpg",
+            "url": "/ru/quest/shit-ne-tuzhit-chast-2"
+        },
+        {
+            "Название": "Кровь войны. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Krov-vojny.-CHast-2.jpg",
+            "url": "/ru/quest/krov-vojny-chast-2"
+        },
+        {
+            "Название": "Скавенжер",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Skavenzher.jpg",
+            "url": "/ru/quest/skavenzher"
+        },
+        {
+            "Название": "Супервайзер",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Supervajzer.jpg",
+            "url": "/ru/quest/supervajzer"
+        },
+        {
+            "Название": "Секрет успеха",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sekret-uspeha.jpg",
+            "url": "/ru/quest/sekret-uspeha"
+        },
+        {
+            "Название": "Шить — не тужить. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/шить не тужить.png",
+            "url": "/ru/quest/shit-ne-tuzhit-chast-3"
+        },
+        {
+            "Название": "Кровь войны. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Krov-vojny.-CHast-3.jpg",
+            "url": "/ru/quest/krov-vojny-chast-3"
+        },
+        {
+            "Название": "Длинная очередь",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/vernem-ultre-byloe-velichie.jpg",
+            "url": "/ru/quest/dlinnaya-ochered"
+        },
+        {
+            "Название": "Выпивка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/vypivka.png",
+            "url": "/ru/quest/vypivka"
+        },
+        {
+            "Название": "Модник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Modnik.jpg",
+            "url": "/ru/quest/modnik"
+        },
+        {
+            "Название": "Борода не нужна",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Boroda-ne-nuzhna.jpg",
+            "url": "/ru/quest/boroda-ne-nuzhna"
+        },
+        {
+            "Название": "Шить — не тужить. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/SHit-ne-tuzhit.-CHast-4.jpg",
+            "url": "/ru/quest/shit-ne-tuzhit-chast-4"
+        },
+        {
+            "Название": "Красиво жить не запретишь. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Krasivo-zhit-ne-zapretish.jpg",
+            "url": "/ru/quest/krasivo-zhit-ne-zapretish"
+        },
+        {
+            "Название": "Красиво жить не запретишь. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Krasivo-zhit-ne-zapretish.-CHast-2.jpg",
+            "url": "/ru/quest/krasivo-zhit-ne-zapretish-chast-2"
+        },
+        {
+            "Название": "Текстиль. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tekstil.-CHast-1.webp",
+            "url": "/ru/quest/tekstil-chast-1"
+        },
+        {
+            "Название": "Харизма города берет",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Harizma-goroda-beret.jpg",
+            "url": "/ru/quest/harizma-goroda-beret"
+        },
+        {
+            "Название": "Текстиль. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tekstil.-CHast-2.webp",
+            "url": "/ru/quest/tekstil-chast-2"
+        },
+        {
+            "Название": "Аудит",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/аудит.png",
+            "url": "/ru/quest/audit"
+        },
+        {
+            "Название": "Любитель балета",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/любитель балета.png",
+            "url": "/ru/quest/lubitel-baleta"
+        },
+        {
+            "Название": "Меломан",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/меломан.png",
+            "url": "/ru/quest/meloman"
+        },
+        {
+            "Название": "Часы времени",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_KoxD8MWklM.png",
+            "url": "/ru/quest/chasy-vremeni"
+        },
+        {
+            "Название": "Заокеанское доверие - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_dBFbLHWfJZ.png",
+            "url": "/ru/quest/zaokeanskoye-doveriye-2"
+        },
+        {
+            "Название": "\"Выгодная\" сделка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/RTTBlackSVU.webp",
+            "url": "/ru/quest/vigodnaya-sdelka"
+        },
+        {
+            "Название": "Стиляги",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/стиляги.png",
+            "url": "/ru/quest/stilyagi"
+        },
+        {
+            "Название": "Обновка. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/обновка.jpg",
+            "url": "/ru/quest/obnovka-1"
+        },
+        {
+            "Название": "Обновка. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/обновка.jpg",
+            "url": "/ru/quest/obnovka-2"
+        }
+    ]
+}

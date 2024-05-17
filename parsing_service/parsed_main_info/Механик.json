@@ -1,0 +1,329 @@
+{
+    "Квесты": [
+        {
+            "Название": "Кабинет химии",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/kabinet-himii.jpg",
+            "url": "/ru/quest/kabinet-himii"
+        },
+        {
+            "Название": "Оружейник. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-1.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-1"
+        },
+        {
+            "Название": "Оружейник. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-2.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-2"
+        },
+        {
+            "Название": "Поручение",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Poruchenie.jpg",
+            "url": "/ru/quest/poruchenie"
+        },
+        {
+            "Название": "Садоводство. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sadovodstvo.-CHast-1.jpg",
+            "url": "/ru/quest/sadovodstvo-chast-1"
+        },
+        {
+            "Название": "Садоводство. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sadovodstvo.-CHast-2.jpg",
+            "url": "/ru/quest/sadovodstvo-chast-2"
+        },
+        {
+            "Название": "Сигнал. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Signal.-CHast-1.jpg",
+            "url": "/ru/quest/signal-chast-1"
+        },
+        {
+            "Название": "Оружейник. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-3.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-3"
+        },
+        {
+            "Название": "Свой человек",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Svoj-chelovek.jpg",
+            "url": "/ru/quest/svoj-chelovek"
+        },
+        {
+            "Название": "Сигнал. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Signal.-CHast-2.jpg",
+            "url": "/ru/quest/signal-chast-2"
+        },
+        {
+            "Название": "Садоводство. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sadovodstvo.-CHast-3.jpg",
+            "url": "/ru/quest/sadovodstvo-chast-3"
+        },
+        {
+            "Название": "Стрелок от бога",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Strelok-ot-boga.jpg",
+            "url": "/ru/quest/strelok-ot-boga"
+        },
+        {
+            "Название": "Садоводство. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sadovodstvo.-CHast-4.jpg",
+            "url": "/ru/quest/sadovodstvo-chast-4"
+        },
+        {
+            "Название": "Скаут",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Skaut.jpg",
+            "url": "/ru/quest/skaut"
+        },
+        {
+            "Название": "Сигнал. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Signal.-CHast-3.jpg",
+            "url": "/ru/quest/signal-chast-3"
+        },
+        {
+            "Название": "Военный хабар",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/voennyj-habar.jpg",
+            "url": "/ru/quest/voennyj-habar"
+        },
+        {
+            "Название": "Сигнал. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Signal.-CHast-4.jpg",
+            "url": "/ru/quest/signal-chast-4"
+        },
+        {
+            "Название": "Чёрный выход",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chyornyj-vyhod.jpg",
+            "url": "/ru/quest/chyornyj-vyhod"
+        },
+        {
+            "Название": "Удобрения",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Udobreniya.jpg",
+            "url": "/ru/quest/udobreniya"
+        },
+        {
+            "Название": "Импорт",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Import.jpg",
+            "url": "/ru/quest/import"
+        },
+        {
+            "Название": "Оружейник. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник4.png",
+            "url": "/ru/quest/oruzhejnik-chast-4"
+        },
+        {
+            "Название": "Оружейник. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-7.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-5"
+        },
+        {
+            "Название": "Оружейник. Часть 6",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-8.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-6"
+        },
+        {
+            "Название": "Оружейник. Часть 7",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-4.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-7"
+        },
+        {
+            "Название": "Оружейник. Часть 8",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-9.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-8"
+        },
+        {
+            "Название": "Оружейник. Часть 9",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник9.png",
+            "url": "/ru/quest/oruzhejnik-chast-9"
+        },
+        {
+            "Название": "Оружейник. Часть 10",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-10.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-10"
+        },
+        {
+            "Название": "Оружейник. Часть 11",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник11.png",
+            "url": "/ru/quest/oruzhejnik-chast-11"
+        },
+        {
+            "Название": "Оружейник. Часть 12",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-13.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-12"
+        },
+        {
+            "Название": "Оружейник. Часть 13",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-6.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-13"
+        },
+        {
+            "Название": "Оружейник. Часть 18",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник18.png",
+            "url": "/ru/quest/oruzhejnik-chast-18"
+        },
+        {
+            "Название": "Оружейник. Часть 20",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-20.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-20"
+        },
+        {
+            "Название": "Оружейник. Часть 22",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-22.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-22"
+        },
+        {
+            "Название": "Пристрелка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/strelok-ot-boga.jpg",
+            "url": "/ru/quest/pristrelka"
+        },
+        {
+            "Название": "Курьер",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/vernem-ultre-byloe-velichie.png",
+            "url": "/ru/quest/kurer"
+        },
+        {
+            "Название": "Снайпер-психопат",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Snajper-psihopat.jpg",
+            "url": "/ru/quest/snajper-psihopat"
+        },
+        {
+            "Название": "Тайны Корпоратов",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/tajny-korporatov.webp",
+            "url": "/ru/quest/tajny-korporatov"
+        },
+        {
+            "Название": "Энергетический кризис",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/energeticheskij-krizis.webp",
+            "url": "/ru/quest/energeticheskij-krizis"
+        },
+        {
+            "Название": "Вредная привычка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vrednaya-privychka.jpg",
+            "url": "/ru/quest/vrednaya-privychka"
+        },
+        {
+            "Название": "Стрим - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/стрим1и2.png",
+            "url": "/ru/quest/strim-1"
+        },
+        {
+            "Название": "Стрим - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/стрим1и2.png",
+            "url": "/ru/quest/strim-2"
+        },
+        {
+            "Название": "Наблюдение",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/наблюдение.png",
+            "url": "/ru/quest/nabludenie"
+        },
+        {
+            "Название": "Слежка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/слежка.png",
+            "url": "/ru/quest/slejka"
+        },
+        {
+            "Название": "Оружейник. Часть 14",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник14.png",
+            "url": "/ru/quest/oruzhejnik-chast-14"
+        },
+        {
+            "Название": "Оружейник. Часть 15",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник15.png",
+            "url": "/ru/quest/oruzhejnik-chast-15"
+        },
+        {
+            "Название": "Оружейник. Часть 16",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Oruzhejnik.-CHast-16.jpg",
+            "url": "/ru/quest/oruzhejnik-chast-16"
+        },
+        {
+            "Название": "Оружейник. Часть 17",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник17.png",
+            "url": "/ru/quest/oruzhejnik-chast-17"
+        },
+        {
+            "Название": "Оружейник. Часть 19",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник19.png",
+            "url": "/ru/quest/oruzhejnik-chast-19"
+        },
+        {
+            "Название": "Оружейник. Часть 21",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейни21.png",
+            "url": "/ru/quest/oruzhejnik-chast-21"
+        },
+        {
+            "Название": "Сетевой провайдер - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/vernem-ultre-byloe-velichie.png",
+            "url": "/ru/quest/setevoy-provider-1"
+        },
+        {
+            "Название": "Сетевой провайдер - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/setevoy-provaider-chast-2.webp",
+            "url": "/ru/quest/setevoy-provider-2"
+        },
+        {
+            "Название": "Проверка - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/proverka-chast-1.webp",
+            "url": "/ru/quest/proverak-chast-1"
+        },
+        {
+            "Название": "Проверка - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/proverka-chast-2.webp",
+            "url": "/ru/quest/proverak-chast-2"
+        },
+        {
+            "Название": "Проверка - Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/proverka-chast-3.webp",
+            "url": "/ru/quest/proverak-chast-3"
+        },
+        {
+            "Название": "Ключ от Башни",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/klytch-ot-bashny.webp",
+            "url": "/ru/quest/klyuch-ot-bashni"
+        },
+        {
+            "Название": "Тук-тук, кто там?",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/klytch-ot-bashny.webp",
+            "url": "/ru/quest/tuk-tuk-kto-tam"
+        },
+        {
+            "Название": "Новое знакомство",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Discord_Se6grK04Kd.png",
+            "url": "/ru/quest/novoe-znakomstvo"
+        },
+        {
+            "Название": "Оружейник. Часть 23",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник23.png",
+            "url": "/ru/quest/oruzhejnik-chast-23"
+        },
+        {
+            "Название": "Оружейник. Часть 24",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник24.png",
+            "url": "/ru/quest/oruzhejnik-chast-24"
+        },
+        {
+            "Название": "Оружейник - Часть 25",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/оружейник25.png",
+            "url": "/ru/quest/oruzhejnik-chast-25"
+        },
+        {
+            "Название": "Дверь",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/vernem-ultre-byloe-velichie.png",
+            "url": "/ru/quest/dver"
+        },
+        {
+            "Название": "Спасение крота",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Спасение крота.png",
+            "url": "/ru/quest/spasenie-krota"
+        },
+        {
+            "Название": "Устойчивый сигнал",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Signal.-CHast-1.jpg",
+            "url": "/ru/quest/ustoichiviy-signal"
+        },
+        {
+            "Название": "Секрет Успеваемости. Часть 1.",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/developerssecretmain1.png",
+            "url": "/ru/quest/sekret-uspevaemosti"
+        },
+        {
+            "Название": "Секрет Успеваемости. Часть 2.",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/developerssecretmain2.png",
+            "url": "/ru/quest/sekret-uspevaemosti-2"
+        }
+    ]
+}

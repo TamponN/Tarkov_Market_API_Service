@@ -1,0 +1,214 @@
+{
+    "Квесты": [
+        {
+            "Название": "Дефицит",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/deficzit.jpg",
+            "url": "/ru/quest/deficzit"
+        },
+        {
+            "Название": "Санэпиднадзор. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sanepidnadzor.-CHast-1.jpg",
+            "url": "/ru/quest/sanepidnadzor-chast-1"
+        },
+        {
+            "Название": "Операция «Водолей»",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Operacziya-Vodolej.jpg",
+            "url": "/ru/quest/operacziya-vodolej"
+        },
+        {
+            "Название": "Почтальон Печкин. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Pochtalon-Pechkin-ch.-2.jpg",
+            "url": "/ru/quest/pochtalon-pechkin-chast-2"
+        },
+        {
+            "Название": "Санэпиднадзор. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Sanepidnadzor.-CHast-1.jpg",
+            "url": "/ru/quest/sanepidnadzor-chast-2"
+        },
+        {
+            "Название": "Операция «Водолей». Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Operacziya-Vodolej-CHast-2.jpg",
+            "url": "/ru/quest/operacziya-vodolej-chast-2"
+        },
+        {
+            "Название": "Пэйнкиллер",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Pejnkiller.jpg",
+            "url": "/ru/quest/pejnkiller"
+        },
+        {
+            "Название": "Провизор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/provizor.jpg",
+            "url": "/ru/quest/provizor"
+        },
+        {
+            "Название": "Медицинский журнал",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/mediczinskij-zhurnal.jpg",
+            "url": "/ru/quest/mediczinskij-zhurnal"
+        },
+        {
+            "Название": "Планы снабжения",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Plany-snabzheniya.jpg",
+            "url": "/ru/quest/plany-snabzheniya"
+        },
+        {
+            "Название": "Врачебная тайна. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vrachebnaya-tajna.-CHast-1.jpg",
+            "url": "/ru/quest/vrachebnaya-tajna-chast-1"
+        },
+        {
+            "Название": "Авторем",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/avtorem.jpg",
+            "url": "/ru/quest/avtorem"
+        },
+        {
+            "Название": "Сельпо",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/selpo.jpg",
+            "url": "/ru/quest/selpo"
+        },
+        {
+            "Название": "Коллеги. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/kollegi.-chast-1.jpg",
+            "url": "/ru/quest/kollegi-chast-1"
+        },
+        {
+            "Название": "Врачебная тайна. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vrachebnaya-tajna.-CHast-2.jpg",
+            "url": "/ru/quest/vrachebnaya-tajna-chast-2"
+        },
+        {
+            "Название": "Врачебная тайна. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vrachebnaya-tajna.-CHast-3.jpg",
+            "url": "/ru/quest/vrachebnaya-tajna-chast-3"
+        },
+        {
+            "Название": "Коллеги. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/kollegi.-chast-2.jpg",
+            "url": "/ru/quest/kollegi-chast-2"
+        },
+        {
+            "Название": "Врачебная тайна. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vrachebnaya-tajna.-CHast-4.jpg",
+            "url": "/ru/quest/vrachebnaya-tajna-chast-4"
+        },
+        {
+            "Название": "В здоровом теле-здоровый дух",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/V-zdorovom-tele-zdorovyj-duh.jpg",
+            "url": "/ru/quest/v-zdorovom-tele-zdorovyj-duh"
+        },
+        {
+            "Название": "Физкультурник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Fizkulturnik.jpg",
+            "url": "/ru/quest/fizkulturnik"
+        },
+        {
+            "Название": "Врачебная тайна. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vrachebnaya-tajna.-CHast-5.jpg",
+            "url": "/ru/quest/vrachebnaya-tajna-chast-5"
+        },
+        {
+            "Название": "Частная клиника",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/CHastnaya-klinika.jpg",
+            "url": "/ru/quest/chastnaya-klinika"
+        },
+        {
+            "Название": "Служба дезинфекции",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/sluzhba-dezinfekczii.jpg",
+            "url": "/ru/quest/sluzhba-dezinfekczii"
+        },
+        {
+            "Название": "Коллеги. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/коллеги часть 3.png",
+            "url": "/ru/quest/kollegi-chast-3"
+        },
+        {
+            "Название": "Доктор «Айболит»",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Skoraya-pomoshh (1).jpg",
+            "url": "/ru/quest/doktor-ajbolit"
+        },
+        {
+            "Название": "Простое любопытство",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Prostoe-lyubopytstvo (1).jpg",
+            "url": "/ru/quest/prostoe-lyubopytstvo"
+        },
+        {
+            "Название": "Забудем старые обиды",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Zabudem-starye-obidy.jpg",
+            "url": "/ru/quest/zabudem-starye-obidy"
+        },
+        {
+            "Название": "Потерянный контакт",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/123.jpg",
+            "url": "/ru/quest/poteryannyj-kontakt"
+        },
+        {
+            "Название": "Отдых у моря",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/отдыхУморя.webp",
+            "url": "/ru/quest/otdyh-u-morya"
+        },
+        {
+            "Название": "Наркотрафик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/наркотрафик.png",
+            "url": "/ru/quest/narkotrafik"
+        },
+        {
+            "Название": "Перепись населения",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_G7wXftVqsl.png",
+            "url": "/ru/quest/perepis-naselenia"
+        },
+        {
+            "Название": "Опасная дорога",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/опасная дорога.png",
+            "url": "/ru/quest/opasnaya-doroga"
+        },
+        {
+            "Название": "Городская медицина",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/городская медицина.png",
+            "url": "/ru/quest/gorodskaya-medicina"
+        },
+        {
+            "Название": "Инвентаризация. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/инвентаризация.png",
+            "url": "/ru/quest/inventarizatsiya-1"
+        },
+        {
+            "Название": "Фельдшер",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/фельдшер.png",
+            "url": "/ru/quest/feldsher"
+        },
+        {
+            "Название": "Отравление",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/poisoning_title.jpg",
+            "url": "/ru/quest/otravlenie"
+        },
+        {
+            "Название": "Погоня за властью",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/pursuitofpower.png",
+            "url": "/ru/quest/pogonya-za-vlastyu"
+        },
+        {
+            "Название": "Лекарство",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/remedy1.png",
+            "url": "/ru/quest/lekarstvo"
+        },
+        {
+            "Название": "Исцеление",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/healing.png",
+            "url": "/ru/quest/iscelenie"
+        },
+        {
+            "Название": "Главный компонент",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/keycomponent.png",
+            "url": "/ru/quest/glavny-komponent"
+        },
+        {
+            "Название": "Первый в очереди",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/первый в очереди.png",
+            "url": "/ru/quest/pervii-v-ocheredi"
+        },
+        {
+            "Название": "Инвентаризация. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Discord_4ASO0G64mn.png",
+            "url": "/ru/quest/inventarizatsiya-2"
+        }
+    ]
+}

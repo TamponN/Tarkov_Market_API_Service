@@ -9,6 +9,7 @@ _apiService = Api_service()
 
 class ItemController(Resource):
     """
+    
     Класс-контроллер, описывающий методы работы с объектами items
     """
     @staticmethod

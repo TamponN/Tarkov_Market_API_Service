@@ -1,0 +1,21 @@
+{
+    "Требования": "Требуется для\nКоллекционера",
+    "Цели квеста": "Найти гермозатвор ведущий к госпиталю (белый слон)\nНайти один из двух гермозатворов ведущих к учебному корпусу (черный слон)\nНайти один из двух гермозатворов ведущих к казарме №1 (черная пешка)\nНайти один из двух гермозатворов ведущих к казарме №2 (белая пешка)\nНайти гермозатвор ведущий к зданию ЦКВП «Норвинский-2» (белый король)\nВыжить и выйти с локации",
+    "Как выполнить квест": "Необходимо найти несколько входов в подземный бункер и выйти с рейда только со статусом «Выжил». Отправляемся на Резерв . Ищем пять зданий и спускаемся вниз по лестнице в поисках гермозатворов Найти все гермозатворы на карте Гермозатвор ведущий к госпиталю (белый слон): Вход в госпиталь Вход в госпиталь Подвал госпиталя Подвал госпиталя Гермозатвор ведущий к учебному корпусу (черный слон): Вход в учебный корпус через пищеблок (черный слон) Вход в учебный корпус через пищеблок (черный слон) Спуск в подвал учебного корпуса (черный слон) Спуск в подвал учебного корпуса (черный слон) Путь к гермозатвору учебного корпуса (черный слон) Путь к гермозатвору учебного корпуса (черный слон) Вход в подземный бункер учебного корпуса (черный слон) Вход в подземный бункер учебного корпуса (черный слон) Гермозатвор ведущий к казарме №1 (черная пешка): Спуск в подвал казармы №1 (черная пешка) Спуск в подвал казармы №1 (черная пешка) Вход в подземный бункер казармы №1 (черная пешка) Вход в подземный бункер казармы №1 (черная пешка) Гермозатвор ведущих к казарме №2 (белая пешка): Спуск в подвал казармы №2 (белая пешка) Спуск в подвал казармы №2 (белая пешка) Вход в подземный бункер казармы №2 (белая пешка) Вход в подземный бункер казармы №2 (белая пешка) Гермозатвор ведущий к ЦКВП «Норвинский-2» (белый король): Вход в ЦКВП Норвинский-2 (белый король) Вход в ЦКВП Норвинский-2 (белый король) Спуск в подвал ЦКВП Норвинский-2 (белый король) Спуск в подвал ЦКВП Норвинский-2 (белый король) Вход в подземный бункер ЦКВП Норвинский-2 (белый король) Вход в подземный бункер ЦКВП Норвинский-2 (белый король)",
+    "Ссылки на изображения": [
+        "https://minio.tarkov.help/production/img/articles/vhod-v-gospital.webp",
+        "https://minio.tarkov.help/production/img/articles/podval-gospitalya.webp",
+        "https://minio.tarkov.help/production/img/articles/vhod-v-uchebnyj-korpus-cherez-pishheblok-chernyj-slon.webp",
+        "https://minio.tarkov.help/production/img/articles/spusk-v-podval-uchebnogo-korpusa-chernyj-slon.webp",
+        "https://minio.tarkov.help/production/img/articles/put-k-germozatvoru-uchebnogo-korpusa-chernyj-slon.webp",
+        "https://minio.tarkov.help/production/img/articles/vhod-v-podzemnyj-bunker-uchebnogo-korpusa-chernyj-slon.webp",
+        "https://minio.tarkov.help/production/img/articles/spusk-v-podval-kazarmy-№1-chernaya-peshka.webp",
+        "https://minio.tarkov.help/production/img/articles/vhod-v-podzemnyj-bunker-kazarmy-№1-chernaya-peshka.webp",
+        "https://minio.tarkov.help/production/img/articles/spusk-v-podval-kazarmy-№2-belaya-peshka.webp",
+        "https://minio.tarkov.help/production/img/articles/vhod-v-podzemnyj-bunker-kazarmy-№2-belaya-peshka.webp",
+        "https://minio.tarkov.help/production/img/articles/vhod-v-CKVP-Norvinskij-2-(belyj korol)1.webp",
+        "https://minio.tarkov.help/production/img/articles/spusk-v-podval-czkvp-norvinskij-2-belyj-korol.webp",
+        "https://minio.tarkov.help/production/img/articles/vhod-v-podzemnyj-bunker-czkvp-norvinskij-2-belyj-korol.webp"
+    ],
+    "Награды за квест": "\n+9200 Опыта\n\n+0.03 Репутации у Прапора\n\n25000 Рублей\n"
+}

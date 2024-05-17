@@ -1,0 +1,284 @@
+{
+    "Квесты": [
+        {
+            "Название": "Проба пера",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/proba-pera.webp",
+            "url": "/ru/quest/proba_pera"
+        },
+        {
+            "Название": "Проверка на вшивость",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/proverka-na-vshivost.webp",
+            "url": "/ru/quest/proverka-na-vshivost"
+        },
+        {
+            "Название": "Пикник со стрельбой",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/piknik-so-strelboj.webp",
+            "url": "/ru/quest/piknik-so-strelboj"
+        },
+        {
+            "Название": "Посылка из прошлого",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/posylka-iz-proshlogo.webp",
+            "url": "/ru/quest/posylka-iz-proshlogo"
+        },
+        {
+            "Название": "Компромат",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/kompromat.webp",
+            "url": "/ru/quest/kompromat"
+        },
+        {
+            "Название": "Рожки для мороженого",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/rojki-dlya-morozhenogo.webp",
+            "url": "/ru/quest/rozhki-dlya-morozhenogo"
+        },
+        {
+            "Название": "Почтальон Печкин - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/pochtalon-pechkin.webp",
+            "url": "/ru/quest/pochtalon-pechkin"
+        },
+        {
+            "Название": "Тряхнуть кассира",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/tryahnut-kassira.webp",
+            "url": "/ru/quest/tryahnut-kassira"
+        },
+        {
+            "Название": "Бомж с Полихима",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Bomzh-s-Polihima.jpg",
+            "url": "/ru/quest/bomzh-s-polihima"
+        },
+        {
+            "Название": "Большой заказчик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bolshoj-zakazchik.jpg",
+            "url": "/ru/quest/bolshoj-zakazchik"
+        },
+        {
+            "Название": "Поисковая миссия",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/poiskovaya-missiya.webp",
+            "url": "/ru/quest/poiskovaya-missiya"
+        },
+        {
+            "Название": "Нефтянка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Neftyanka.webp",
+            "url": "/ru/quest/neftyanka"
+        },
+        {
+            "Название": "Бункер. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bunker-chast-1.webp",
+            "url": "/ru/quest/bunker-chast-1"
+        },
+        {
+            "Название": "Бункер. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bunker-chast-2.webp",
+            "url": "/ru/quest/bunker-chast-2"
+        },
+        {
+            "Название": "Ренегатам тут не место",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/renegatam-tut-ne-mesto.webp",
+            "url": "/ru/quest/renegatam-tut-ne-mesto"
+        },
+        {
+            "Название": "Документы",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/dokumenty.webp",
+            "url": "/ru/quest/dokumenty"
+        },
+        {
+            "Название": "Идеальный переговорщик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/perfect-mediator.webp",
+            "url": "/ru/quest/idealnyj-peregovorshhik"
+        },
+        {
+            "Название": "Гренадёр",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/grenadyor.webp",
+            "url": "/ru/quest/grenadyor"
+        },
+        {
+            "Название": "Каратель. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel.webp",
+            "url": "/ru/quest/karatel"
+        },
+        {
+            "Название": "Анестезия",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/anesteziya-1.jpg",
+            "url": "/ru/quest/anesteziya"
+        },
+        {
+            "Название": "Тест-драйв - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/test-drajv-chast-1.webp",
+            "url": "/ru/quest/test-drajv-chast-1"
+        },
+        {
+            "Название": "Поставщик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/postavshhik.jpg",
+            "url": "/ru/quest/postavshhik"
+        },
+        {
+            "Название": "Каратель. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel-chast-2.webp",
+            "url": "/ru/quest/karatel-chast-2"
+        },
+        {
+            "Название": "Каратель. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel-chast-3.webp",
+            "url": "/ru/quest/karatel-chast-3"
+        },
+        {
+            "Название": "Каратель. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel-chast-4.webp",
+            "url": "/ru/quest/karatel-chast-4"
+        },
+        {
+            "Название": "Каратель. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel-chast-5.webp",
+            "url": "/ru/quest/karatel-chast-5"
+        },
+        {
+            "Название": "Каратель. Часть 6",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/karatel-chast-6.webp",
+            "url": "/ru/quest/karatel-chast-6"
+        },
+        {
+            "Название": "Устрашитель",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/ustrashitel.webp",
+            "url": "/ru/quest/ustrashitel"
+        },
+        {
+            "Название": "Захват аванпоста",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/zahvat-avanposta.webp",
+            "url": "/ru/quest/zahvat-avanposta"
+        },
+        {
+            "Название": "Конвоир",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/konvoir.webp",
+            "url": "/ru/quest/konvoir"
+        },
+        {
+            "Название": "Без обид",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bez-obid.jpg",
+            "url": "/ru/quest/bez-obid"
+        },
+        {
+            "Название": "Простая задача. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/prostayazadacha.webp",
+            "url": "/ru/quest/prostaya-zadacha-chast-1"
+        },
+        {
+            "Название": "Простая задача. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/prostaya-zadacha-chast-2.webp",
+            "url": "/ru/quest/prostaya-zadacha-chast-2"
+        },
+        {
+            "Название": "Своя Земля",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/svoya-zemlya.webp",
+            "url": "/ru/quest/svoya-zemlya"
+        },
+        {
+            "Название": "Разведка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/разведка.png",
+            "url": "/ru/quest/razvedka"
+        },
+        {
+            "Название": "Вам посылка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/vam-posylka.webp",
+            "url": "/ru/quest/vam-posylka"
+        },
+        {
+            "Название": "Зеленый коридор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/зеленый коридор.png",
+            "url": "/ru/quest/zeleniy-koridor"
+        },
+        {
+            "Название": "Короли высоток",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/короли высоток.png",
+            "url": "/ru/quest/koroli-vysotok"
+        },
+        {
+            "Название": "Слава КПСС - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/slava-kpss-chast-1.webp",
+            "url": "/ru/quest/slavakpss"
+        },
+        {
+            "Название": "Тест-драйв - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bolshoj-zakazchik.jpg",
+            "url": "/ru/quest/test-drajv-chast-2"
+        },
+        {
+            "Название": "Лучшая работа на свете",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/luchshaya-rabota-na-svete.webp",
+            "url": "/ru/quest/luchshaya-rabota-na-svete"
+        },
+        {
+            "Название": "Городской жандарм - Школьный сторож",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_XWvreag7nR.png",
+            "url": "/ru/quest/gorodskoy-jandarjm-shkolniy-storoj"
+        },
+        {
+            "Название": "Слава КПСС - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/slava-kpss-chast-2.webp",
+            "url": "/ru/quest/slava-kpss2"
+        },
+        {
+            "Название": "Городской жандарм - Охранник супермаркета",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/gorodskoj-zhandarm-Ohrannik-supermarketa.webp",
+            "url": "/ru/quest/gorodskoy-zhandarm-okhrannik-supermarketa"
+        },
+        {
+            "Название": "Городской жандарм - Прерванный сеанс",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/gorodskoj-zhandarm-Prervannyj-seans.webp",
+            "url": "/ru/quest/gorodskoy-zhandarm-prervanniy-seans"
+        },
+        {
+            "Название": "Городской жандарм - Новый участковый",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/новый участковый.png",
+            "url": "/ru/quest/gorodskoy-zhandarm-novyy-uchastkovyy"
+        },
+        {
+            "Название": "Тест-драйв - Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/svoya-zemlya.webp",
+            "url": "/ru/quest/test-drajv-chast-3"
+        },
+        {
+            "Название": "В кроличью нору. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/кроличья нора.png",
+            "url": "/ru/quest/v-krolichu-noru-1"
+        },
+        {
+            "Название": "В кроличью нору. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/кроличья нора.png",
+            "url": "/ru/quest/v-krolichu-noru-2"
+        },
+        {
+            "Название": "В кроличью нору. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/кроличья нора.png",
+            "url": "/ru/quest/v-krolichu-noru-4"
+        },
+        {
+            "Название": "В кроличью нору. Часть 5",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/кроличья нора.png",
+            "url": "/ru/quest/v-krolichu-noru-5"
+        },
+        {
+            "Название": "В кроличью нору. Часть 6",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/кроличья нора.png",
+            "url": "/ru/quest/v-krolichu-noru-6"
+        },
+        {
+            "Название": "Стрельба по Баночкам",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/strelba-po-banochkam.webp",
+            "url": "/ru/quest/strelba-po-banochkam"
+        },
+        {
+            "Название": "Роскошная Жизнь",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/roskoshnaya-zhizn.webp",
+            "url": "/ru/quest/roskoshnaya-jizn"
+        },
+        {
+            "Название": "Земельный вопрос",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/zemelnyj-vopros.webp",
+            "url": "/ru/quest/zemelniy-vopros"
+        },
+        {
+            "Название": "Тест-драйв - Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/svoya-zemlya.webp",
+            "url": "/ru/quest/test-drajv-chast-4"
+        }
+    ]
+}

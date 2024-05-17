@@ -1,0 +1,19 @@
+{
+    "Квесты": [
+        {
+            "Название": "Коллекционер",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Group_139.png",
+            "url": "/ru/quest/kollekczioner"
+        },
+        {
+            "Название": "Выбор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/kollekczioner (1).jpg",
+            "url": "/ru/quest/vybor"
+        },
+        {
+            "Название": "Паразиты",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Parasites.jpg",
+            "url": "/ru/quest/parasity"
+        }
+    ]
+}

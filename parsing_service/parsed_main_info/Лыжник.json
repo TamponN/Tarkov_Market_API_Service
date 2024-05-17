@@ -1,0 +1,189 @@
+{
+    "Квесты": [
+        {
+            "Название": "Снабженец",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Snabzhenecz.jpg",
+            "url": "/ru/quest/snabzhenecz"
+        },
+        {
+            "Название": "Вымогатель",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vymogatel.jpg",
+            "url": "/ru/quest/vymogatel"
+        },
+        {
+            "Название": "Движуха",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Dvizhuha.jpg",
+            "url": "/ru/quest/dvizhuha"
+        },
+        {
+            "Название": "Что на флешке?",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/CHto-na-fleshke.jpg",
+            "url": "/ru/quest/chto-na-fleshke"
+        },
+        {
+            "Название": "Золотые понты",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Zolotye-ponty.jpg",
+            "url": "/ru/quest/zolotye-ponty"
+        },
+        {
+            "Название": "Своего рода саботаж",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Svoego-roda-sabotazh.jpg",
+            "url": "/ru/quest/svoego-roda-sabotazh"
+        },
+        {
+            "Название": "Друг с запада. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/drug-s-zapada.-chast-1.jpg",
+            "url": "/ru/quest/drug-s-zapada-chast-1"
+        },
+        {
+            "Название": "Друг с запада. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Drug-s-zapada.-CHast-2.jpg",
+            "url": "/ru/quest/drug-s-zapada-chast-2"
+        },
+        {
+            "Название": "Реагент. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Reagent.-CHast-1.jpg",
+            "url": "/ru/quest/reagent-chast-1"
+        },
+        {
+            "Название": "Реагент. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Reagent.-CHast-2.jpg",
+            "url": "/ru/quest/reagent-chast-2"
+        },
+        {
+            "Название": "Реагент. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Reagent.-CHast-4.jpg",
+            "url": "/ru/quest/reagent-chast-3"
+        },
+        {
+            "Название": "Осведомлён значит вооружён",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Osvedomlyon-znachit-vooruzhyon.jpg",
+            "url": "/ru/quest/osvedomlyon-znachit-vooruzhyon"
+        },
+        {
+            "Название": "Лендлиз. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lendliz.jpg",
+            "url": "/ru/quest/lendliz"
+        },
+        {
+            "Название": "Прикормка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Prikormka.jpg",
+            "url": "/ru/quest/prikormka"
+        },
+        {
+            "Название": "Игра на верняк",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/igra-na-vernyak.jpg",
+            "url": "/ru/quest/igra-na-vernyak"
+        },
+        {
+            "Название": "Витамины. Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vitaminy.-CHast-1.jpg",
+            "url": "/ru/quest/vitaminy-chast-1"
+        },
+        {
+            "Название": "Витамины. Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vitaminy.-CHast-2.jpg",
+            "url": "/ru/quest/vitaminy-chast-2"
+        },
+        {
+            "Название": "Реагент. Часть 4",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Reagent.-CHast-4-1.jpg",
+            "url": "/ru/quest/reagent-chast-4"
+        },
+        {
+            "Название": "Безопасный коридор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/bezopasnyj-koridor.jpg",
+            "url": "/ru/quest/bezopasnyj-koridor"
+        },
+        {
+            "Название": "Выкуп доверия",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Vykup-doveriya.jpg",
+            "url": "/ru/quest/vykup-doveriya"
+        },
+        {
+            "Название": "Деза",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Deza.jpg",
+            "url": "/ru/quest/deza"
+        },
+        {
+            "Название": "Тихий калибр",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Tihij-kalibr.jpg",
+            "url": "/ru/quest/tihij-kalibr"
+        },
+        {
+            "Название": "Кремень",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Kremen.jpg",
+            "url": "/ru/quest/kremen"
+        },
+        {
+            "Название": "Подстава",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Podstava.jpg",
+            "url": "/ru/quest/podstava"
+        },
+        {
+            "Название": "Ночная прогулка",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/put-vyzhivalshhika.-filin.jpg",
+            "url": "/ru/quest/nochnaya-progulka"
+        },
+        {
+            "Название": "Долгая дорога",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/dolgaya-doroga.jpg",
+            "url": "/ru/quest/dolgaya-doroga"
+        },
+        {
+            "Название": "Пропавший груз",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/propavshij-gruz.jpg",
+            "url": "/ru/quest/propavshij-gruz"
+        },
+        {
+            "Название": "Совершенно секретно",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/совершенно секретно.png",
+            "url": "/ru/quest/sovershenno-sekretno"
+        },
+        {
+            "Название": "Должник",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/должник.png",
+            "url": "/ru/quest/doljnik"
+        },
+        {
+            "Название": "Домашний арест - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_KoxD8MWklM.png",
+            "url": "/ru/quest/domashniy-arest-1"
+        },
+        {
+            "Название": "Домашний арест - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/домашний арест 2.png",
+            "url": "/ru/quest/domashniy-arest-2"
+        },
+        {
+            "Название": "Секреты идеального вкуса - Часть 1",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/секреты идеального вкуса 1.png",
+            "url": "/ru/quest/sekrety-idealnogo-vkusa-chast-1"
+        },
+        {
+            "Название": "Секреты идеального вкуса - Часть 2",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/секреты идеального вкуса 2.png",
+            "url": "/ru/quest/sekrety-idealnogo-vkusa-chast-2"
+        },
+        {
+            "Название": "В кроличью нору. Часть 3",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/кроличья нора.png",
+            "url": "/ru/quest/v-krolichu-noru-3"
+        },
+        {
+            "Название": "По коням",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/pokonyam.png",
+            "url": "/ru/quest/po-konyam"
+        },
+        {
+            "Название": "Финансовая пирамида",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/вам посылка.png",
+            "url": "/ru/quest/finansovaya-piramida"
+        },
+        {
+            "Название": "Чужое добро",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/noswiping.png",
+            "url": "/ru/quest/chuzhoe-dobro"
+        }
+    ]
+}

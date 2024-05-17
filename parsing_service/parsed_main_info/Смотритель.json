@@ -1,0 +1,64 @@
+{
+    "Квесты": [
+        {
+            "Название": "Цепочка квестов Смотрителя",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/ecc56YvbZ5sz.png",
+            "url": "/ru/quest/otkrytie-smotritelya"
+        },
+        {
+            "Название": "Источник информации",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/istochnik-informacii"
+        },
+        {
+            "Название": "Пропавший информатор",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/propavshiy-informator"
+        },
+        {
+            "Название": "Контр-компромат",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/kontr-kompromat"
+        },
+        {
+            "Название": "Ответная услуга",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/otvetnaya-usluga"
+        },
+        {
+            "Название": "Расплата",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/rasplata"
+        },
+        {
+            "Название": "Провокация",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/provokaciya"
+        },
+        {
+            "Название": "След из хлебных крошек",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/sled-iz-khlebnykh-kroshek"
+        },
+        {
+            "Название": "Наводчик",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/navodchik"
+        },
+        {
+            "Название": "Произвести впечатление",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/proizvesti-vpechatlenie"
+        },
+        {
+            "Название": "Городские разборки",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/Lightkeeper_quest_portrait.webp",
+            "url": "/ru/quest/gorodskie-razborki"
+        },
+        {
+            "Название": "Заокеанское доверие",
+            "Картинка": "https://minio.tarkov.help/production/img/articles/chrome_cj6XD9Womo.png",
+            "url": "/ru/quest/zaokeanskoye-doveriye"
+        }
+    ]
+}
